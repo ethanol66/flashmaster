@@ -1,1 +1,14 @@
-{"name":"FlashMaster","short_name":"FlashMaster","start_url":".","display":"standalone","background_color":"#f5f6fa","theme_color":"#f5f6fa","icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png"}]}
+{
+  "name": "Memoki Review",
+  "short_name": "Memoki",
+  "description": "Anki-style flashcards for review, statistics, and offline study.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f5f8",
+  "theme_color": "#1f5fbf",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
